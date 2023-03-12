@@ -1,0 +1,29 @@
+body{
+    margin: 20px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+   
+}
+
+.business-card{
+    background-color: #ddebf8;
+    padding: 20px;
+    width: 400px;
+    display: flex;
+    justify-content:space-around;
+    margin: 0 auto;
+    text-align: center;
+    color:#2b2839;
+    border-bottom: 8px solid #d8cefe;
+    font-size: small;
+}
+
+
+.swathi-img{
+    width: 150px; 
+}
+
+
+
+
